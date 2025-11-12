@@ -1,0 +1,5 @@
+{
+  "name": "React Arkanoid",
+  "description": "A classic Arkanoid-style brick-breaker game built with React, TypeScript, and Tailwind CSS. Control the paddle with your mouse to bounce the ball and destroy all the bricks to win.",
+  "requestFramePermissions": []
+}

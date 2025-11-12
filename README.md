@@ -1,11 +1,32 @@
-<div align="center">
+# React Arkanoid
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A classic Arkanoid-style brick-breaker game built with React, TypeScript, and Tailwind CSS. A fun, retro-inspired browser game with a modern tech stack and a neon aesthetic.
 
-  <h1>Built with AI Studio</h2>
+## How to Play
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+The goal of the game is to destroy all the bricks at the top of the screen by hitting them with the ball.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+1.  **Start the Game:** Click on the game screen to begin.
+2.  **Control the Paddle:** Move your mouse left and right within the game area to control the paddle at the bottom of the screen.
+3.  **Bounce the Ball:** Keep the ball in play by bouncing it off the paddle. If the ball drops below the paddle, you will lose a life.
+4.  **Break the Bricks:** Each time the ball hits a brick, the brick is destroyed, and you earn 10 points.
+5.  **Win the Game:** Clear all the bricks from the screen to win!
+6.  **Game Over:** You start with 3 lives. The game ends when you run out of lives. You can click to play again.
 
-</div>
+## Features
+
+-   Responsive paddle control via mouse movement.
+-   Classic brick-breaking gameplay.
+-   Real-time score and lives tracking.
+-   Clean, neon-inspired visual style.
+-   Built with modern web technologies.
+
+## Tech Stack
+
+-   **React:** For building the user interface.
+-   **TypeScript:** For static typing and improved developer experience.
+-   **Tailwind CSS:** For styling the game components.
+
+---
+
+Enjoy the game!
